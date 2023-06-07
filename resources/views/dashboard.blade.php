@@ -8,9 +8,6 @@
     @vite('resources/js/app.js')
 </head>
 <body>
-    <div id="app">
-        {{-- <register></register> --}}
-        <login></login>
-    </div>
+    <a href="logout">Logout</a>
 </body>
 </html>
